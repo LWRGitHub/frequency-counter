@@ -34,17 +34,10 @@ class HashTable:
     arr_index = self.hash_func(key)
     ll = self.arr[arr_index]
 
-    # If not found, append
-    # print("-------find(key)---------",ll.find(key))
-    
-    # for ll in self.arr:
-    #   ll.print_nodes()
-
     has_key = False    
     p = ll.head
 
     while p is not None:
-      print(p.data[0])
       if p.data[0] == key:
         has_key = True
       p = p.next
