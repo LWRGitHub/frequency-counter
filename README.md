@@ -25,9 +25,9 @@ example.txt
 
 ***Top of Terminal app***
 
-![Top of terminal app, shows the total number of words used](https://raw.githubusercontent.com/LWRGitHub/frequency-counter/master/assets/top.png)
+![Top of terminal app, shows the total number of words used](https://raw.githubusercontent.com/LWRGitHub/frequency-counter/master/img/top.png)
 
 
 ***Prints to display number of times words used***
 
-![screen shot of terminal app shows the list of words & the number of times used](https://raw.githubusercontent.com/LWRGitHub/frequency-counter/master/assets/num-times-word-used.png)
+![screen shot of terminal app shows the list of words & the number of times used](https://raw.githubusercontent.com/LWRGitHub/frequency-counter/master/img/num-times-word-used.png)
